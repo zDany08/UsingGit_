@@ -1,0 +1,6 @@
+#square {
+    display: block;
+    width: 150px;
+    height: 150px;
+    background: rgb(0, 0, 120);
+}
